@@ -1,4 +1,4 @@
-## 我是ChenYiGeEr 🐟
+## 我是ChenYiGeEr
 
 - 🏬 网络科技公司一小白
 - 🏡 作品：<a href="https://www.rxjy.com" target="_blank">瑞祥装饰官网</a>
