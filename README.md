@@ -1,4 +1,4 @@
 - 🏬 野生程序猿
-- 🏡 作品：None
 - 💬 微信：ForLif3
-- 🤔 问题：<a href="https://www.zhihu.com/people/chen-yige-er" target="_blank">知乎 @陈一歌儿</a>
+- 👨🏻‍💻 个人主页：<a href="https://chenyigeer.github.io" target="_blank">Github @ChenYiGeEr</a>
+- 🤔 提问：<a href="https://www.zhihu.com/people/chen-yige-er" target="_blank">知乎 @陈一歌儿</a>
